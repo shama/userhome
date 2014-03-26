@@ -1,6 +1,6 @@
 # userhome
 
-> A platform independent path to the user's home.
+> A cross-platform (OSX, Windows, Linux) path to the user's home.
 
 ```js
 var userhome = require('userhome');
@@ -10,6 +10,9 @@ console.log(userhome('.bashrc'));
 
 console.log(userhome('test', 'sub', 'file'));
 // /Users/shama/test/sub/file
+
+console.log(userhome());
+// C:\Users\shama
 ```
 
 ## Release History

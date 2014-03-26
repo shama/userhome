@@ -1,6 +1,6 @@
 {
   "name": "userhome",
-  "description": "A platform independent path to the user's home",
+  "description": "A cross-platform path to the user's home",
   "version": "0.1.0",
   "homepage": "https://github.com/shama/userhome",
   "author": {
@@ -23,5 +23,10 @@
   ],
   "engines": {
     "node": ">= 0.8.0"
-  }
+  },
+  "keywords": [
+    "userhome",
+    "home",
+    "path"
+  ]
 }
