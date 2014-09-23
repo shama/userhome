@@ -29,7 +29,9 @@
   },
   "keywords": [
     "userhome",
+    "user",
     "home",
+    "homedir",
     "path"
   ],
   "devDependencies": {
