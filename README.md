@@ -15,7 +15,10 @@ console.log(userhome());
 // C:\Users\shama
 ```
 
+> If a valid user home environment variable could not be found an error will be thrown indicating so.
+
 ## Release History
+* 1.0.0 - Throws an error if a user home can not be found.
 * 0.1.0 - initial release
 
 ## License

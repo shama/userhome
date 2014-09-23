@@ -1,7 +1,7 @@
 {
   "name": "userhome",
   "description": "A cross-platform path to the user's home",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/shama/userhome",
   "author": {
     "name": "Kyle Robinson Young",
