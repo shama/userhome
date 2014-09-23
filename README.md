@@ -1,4 +1,4 @@
-# userhome
+# userhome [![Build Status](http://img.shields.io/travis/shama/userhome.svg)](https://travis-ci.org/shama/userhome)
 
 > A cross-platform (OSX, Windows, Linux) path to the user's home.
 
