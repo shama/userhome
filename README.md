@@ -1,4 +1,4 @@
-# userhome [![Build Status](http://img.shields.io/travis/shama/userhome.svg)](https://travis-ci.org/shama/userhome)
+# userhome
 
 > A cross-platform (OSX, Windows, Linux) path to the user's home.
 
@@ -22,5 +22,5 @@ console.log(userhome());
 * 0.1.0 - initial release
 
 ## License
-Copyright (c) 2014 Kyle Robinson Young  
+Copyright (c) 2024 Kyle Robinson Young  
 Licensed under the MIT license.
