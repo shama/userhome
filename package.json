@@ -30,6 +30,6 @@
     "path"
   ],
   "devDependencies": {
-    "tape": ">=3.0.0 <3.1.0-0"
+    "tape": "^5.9.0"
   }
 }
